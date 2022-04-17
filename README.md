@@ -1,0 +1,2 @@
+# GAS_toroapp_transfar
+サーバーサイドのtoroapp_transfar
