@@ -1,4 +1,4 @@
 # GAS_toroapp_transfar
 サーバーサイドのtoroapp_transfar
 <br>
-2行目にスプレッドシートのIDを入力する必要があります
+code.js 2行目にスプレッドシートのIDを入力する必要があります
