@@ -16,7 +16,7 @@ function main(list, from, to, sheet, length) {
         if (isParameter(list)) {//一覧
             const json = JSON.stringify(list_main(list, sheet, length));
             console.log(json);
-            return ContentService.createTextOutput(json);
+            return json;
         } else if (isParameter(from) && from != to) {//検索
             const json = JSON.stringify(from_main(from, to, sheet, length));
             console.log(json);
