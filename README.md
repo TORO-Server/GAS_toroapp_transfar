@@ -1,5 +1,5 @@
 # GAS_toroapp_transfar
-サーバーサイドのtoroapp_transfar
+サーバーサイドのtoroapp_transfar です。GAS (Google Apps Script。Google のサービス上で動かすプログラム) で作られていて、結果は JSON (データを文字で表す形式の 1 つ) で返ります。
 <br>
 code.js 2行目にスプレッドシートのIDを入力する必要があります
 ```
